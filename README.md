@@ -34,6 +34,7 @@ internal
     |-- container (injector for DI, if you create a new service register your service inside this code)
     |-- middleware (put your http middleware inside here)
     |-- route (versioning your http server api)
+|-- pkg (list our helper function and can be reuse at another project)
 </pre>
 
 Any bug or feature please create an issue and then solve it
